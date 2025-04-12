@@ -10,6 +10,10 @@ perfboard-router
 - [The Lost Art of Strip Board Prototyping | Nuts & Volts Magazine](https://www.nutsvolts.com/magazine/article/june2013_Dratwa)
 - [How to layout a circuit on a perf board quickly and efficiently | All About Circuits](https://forum.allaboutcircuits.com/threads/how-to-layout-a-circuit-on-a-perf-board-quickly-and-efficiently.165628/)
 
+### TODO
+- [ ] Builder pattern
+- [ ] browser workers freerouting emscripten
+
 ### Idea
 - spice -> easyeada schematic / pcb -> add prohibited areas -> autoroute
 ```
