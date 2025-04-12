@@ -20,6 +20,9 @@ perfboard-router
   - [dirkarnez/AP7215-33YG-13](https://github.com/dirkarnez/AP7215-33YG-13)
   - [dirkarnez/EIE3105_Debounce_Test](https://github.com/dirkarnez/EIE3105_Debounce_Test)
 
+### Notes
+- Must not depends on component / ICs libraries (this is perfboard router!)
+
 ### Idea
 - spice -> easyeada schematic / pcb -> add prohibited areas -> autoroute
 ```
