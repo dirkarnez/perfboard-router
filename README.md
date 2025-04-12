@@ -10,6 +10,9 @@ perfboard-router
 - [The Lost Art of Strip Board Prototyping | Nuts & Volts Magazine](https://www.nutsvolts.com/magazine/article/june2013_Dratwa)
 - [How to layout a circuit on a perf board quickly and efficiently | All About Circuits](https://forum.allaboutcircuits.com/threads/how-to-layout-a-circuit-on-a-perf-board-quickly-and-efficiently.165628/)
 
+### Docs
+- https://cdn.hackaday.io/files/1666717130852064/specctra.pdf
+
 ### TODO
 - [ ] Builder pattern
 - [ ] browser workers freerouting emscripten
